@@ -16,5 +16,5 @@
 
 
 # OUTPUT OF THE TASK
-![Screenshot (3)](https://github.com/user-attachments/assets/ce216116-3a8f-430b-a888-308a7509e620)
+![Untitled](https://github.com/user-attachments/assets/9e7b1aa7-a401-4bb4-806d-00829e7686e0)
 
